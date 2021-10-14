@@ -2,7 +2,7 @@ export const UserProfileSetType="USER_PROFILE_SET";
 
 export interface UserProfilePayload{
     id:string;
-    username:string;
+    userName:string;
 }
 
 export interface UserProfileAction{
